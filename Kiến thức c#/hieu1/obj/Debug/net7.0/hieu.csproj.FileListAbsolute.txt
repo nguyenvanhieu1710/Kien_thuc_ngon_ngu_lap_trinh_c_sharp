@@ -1,0 +1,45 @@
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\bin\Debug\net7.0\hieu.exe
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\bin\Debug\net7.0\hieu.deps.json
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\bin\Debug\net7.0\hieu.runtimeconfig.json
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\bin\Debug\net7.0\hieu.dll
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\bin\Debug\net7.0\hieu.pdb
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\hieu.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\hieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\hieu.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\hieu.AssemblyInfo.cs
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\hieu.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\hieu.dll
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\refint\hieu.dll
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\hieu.pdb
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\hieu.genruntimeconfig.cache
+C:\Users\NGUYEN VAN HIEU\source\repos\hieu\hieu\obj\Debug\net7.0\ref\hieu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\bin\Debug\net7.0\hieu.exe
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\bin\Debug\net7.0\hieu.deps.json
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\bin\Debug\net7.0\hieu.runtimeconfig.json
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\bin\Debug\net7.0\hieu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\bin\Debug\net7.0\hieu.pdb
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\hieu.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\hieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\hieu.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\hieu.AssemblyInfo.cs
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\hieu.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\hieu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\refint\hieu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\hieu.pdb
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\hieu.genruntimeconfig.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu c#\hieu\obj\Debug\net7.0\ref\hieu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\bin\Debug\net7.0\hieu.exe
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\bin\Debug\net7.0\hieu.deps.json
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\bin\Debug\net7.0\hieu.runtimeconfig.json
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\bin\Debug\net7.0\hieu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\bin\Debug\net7.0\hieu.pdb
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\hieu.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\hieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\hieu.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\hieu.AssemblyInfo.cs
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\hieu.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\hieu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\refint\hieu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\hieu.pdb
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\hieu.genruntimeconfig.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\hieu0\hieu\obj\Debug\net7.0\ref\hieu.dll
